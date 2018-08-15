@@ -1,0 +1,24 @@
+<package>
+	<id>com.rango.nightlight</id>
+	<name>NightLight</name>
+	<version>0.2</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>11.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>com.anemonetheming.anemone</dependencies>
+	<descriptionlist>
+		<description>A beautiful and colorful that looks best if combined with a dark wallpaper!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
