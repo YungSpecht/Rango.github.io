@@ -19,7 +19,7 @@ Maintainer: Rango <Yung.Sp3cht@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/BetterLife_1.0.deb
-Size: 385
+Size: 4712
 MD5sum: adea0b453f123191d6445c2e374b626b
 Description: A simple Tweak that enables all premium privileges in the Betternet VPN App from the Appstore.
 Name: NightLight
