@@ -13,7 +13,7 @@ Author: Rango <Yung.Sp3cht@gmail.com>
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.nightlight
 
 Package: com.rango.betterlife
-Version: 1.0
+Version: 1.0-1+debug
 Section: Tweaks
 Maintainer: Rango <Yung.Sp3cht@gmail.com>
 Depends: mobilesubstrate
