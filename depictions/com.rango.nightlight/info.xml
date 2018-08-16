@@ -6,15 +6,14 @@
 		<firmware>
                    <miniOS>11.0</miniOS>
 			<maxiOS>11.3.1</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			unconfirmed
-			-->
+			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>com.anemonetheming.anemone</dependencies>
 	<descriptionlist>
-		<description>A beautiful and colorful that looks best if combined with a dark wallpaper!</description>
+		<description>A beautiful and colorful that looks best if combined with a dark wallpaper!
+
+If you have icon requests simply contact me on twitter!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
