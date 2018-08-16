@@ -36,23 +36,7 @@
 				}
 			}
 	    
-	        "#headerImage": 
-                  {"type":"custom"  
-                  ,"source" :"package>screenshots>screenshot"
-                  ,"render" : function(element,source){
-                  console.log($(source).size());
-                  $.each(source, function(index,data) {
-                  var th = $("<div class='thumbnail'>");
-                  var imgsrc = bundleid+'/screenshots/'+$(data).find('image').text()
-                  var lk = $("<a class='thumb'>").attr("href",imgsrc);
-                  var imgblock = $("<img>").attr("src", imgsrc);
-                  lk.append(imgblock);
-                  th.append(lk)
-                  $(element).append(th);
-                  });
-
-                  }
-                  }  
+	 
 	    
 		,"#packageVersion" :
 			{"type":"text","source":"package>version"}
@@ -188,10 +172,6 @@
 	  <div id="compatibilityCheck" class="alert"></div>
 	</div>
        
-	<div class="container">
-              <h4 style="margin-top: 0px;" id="packageShortDesc"></h4>
-              <ul id="headerImage"></ul>
-        </div>
 		
 	<div class="container">
 		<h5>DESCRIPTION</h5>
