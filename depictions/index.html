@@ -24,7 +24,26 @@
 	bundleid = $.QueryString['p'];
 
     var contentBlocks = 	{
-    	"#packageName" :
+    		"#headerImage"	: 
+			{"type":"custom"  
+				,"source" :"package>screenshots>screenshot"
+				,"render" : function(element,source){
+				console.log($(source).size());
+					$.each(source, function(index,data) {
+						var th = $("<div class='thumbnail'>");
+						var imgsrc = bundleid+'/screenshots/'+$(data).find('image').text()
+						var lk = $("<a class='thumb'>").attr("href",imgsrc);
+// 						lk.append($("<img>").attr("src",bundleid+'/screenshots/'+$(data).find('image').text()));
+						var imgblock = $("<img>").attr("src", imgsrc);
+// 						$( "<p>Test</p>" ).appendTo( ".thumb" );
+						lk.append(imgblock);
+						th.append(lk)
+						$(element).append(th);
+					});
+					
+				}
+			}
+    	,"#packageName" :
 			{"type":"text","source":"package>name"}
 		,"#packageHeader" :
 			{"type":"custom"
@@ -171,7 +190,10 @@
 	<div class="container">
 	  <div id="compatibilityCheck" class="alert"></div>
 	</div>
-       
+    
+    <div class="container">
+    	<ul id="headerImage"></ul>
+    </div>
 		
 	<div class="container">
 		<h5>DESCRIPTION</h5>

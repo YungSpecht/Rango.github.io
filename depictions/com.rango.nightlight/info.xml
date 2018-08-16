@@ -15,7 +15,11 @@
 
 If you have icon requests simply contact me on twitter!</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
