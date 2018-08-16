@@ -35,6 +35,25 @@
 					}
 				}
 			}
+	    
+	        "#headerImage": 
+                  {"type":"custom"  
+                  ,"source" :"package>screenshots>screenshot"
+                  ,"render" : function(element,source){
+                  console.log($(source).size());
+                  $.each(source, function(index,data) {
+                  var th = $("<div class='thumbnail'>");
+                  var imgsrc = bundleid+'/screenshots/'+$(data).find('image').text()
+                  var lk = $("<a class='thumb'>").attr("href",imgsrc);
+                  var imgblock = $("<img>").attr("src", imgsrc);
+                  lk.append(imgblock);
+                  th.append(lk)
+                  $(element).append(th);
+                  });
+
+                  }
+                  }  
+	    
 		,"#packageVersion" :
 			{"type":"text","source":"package>version"}
 		,"#packageShortDesc" : 
