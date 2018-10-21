@@ -5,8 +5,8 @@ Maintainer: Rango <Yung.Sp3cht@gmail.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Filename: ./debs/NightLight_0.1.deb
-Size: 936054
-MD5sum: dd83360df3ca46aa2dd3682fb0b798d6
+Size: 956554
+MD5sum: f2817acbe5f4e5fa43d29cac6a650e4d
 Description: A beautiful and colorful theme that looks best with a dark wallpaper.
 Name: NightLight
 Author: Rango <Yung.Sp3cht@gmail.com>
