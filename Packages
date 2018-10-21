@@ -12,16 +12,4 @@ Name: NightLight
 Author: Rango <Yung.Sp3cht@gmail.com>
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.nightlight
 
-Package: com.rango.betterlife
-Version: 1.0-1+debug
-Section: Tweaks
-Maintainer: Rango <Yung.Sp3cht@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/BetterLife_1.0.deb
-Size: 4712
-MD5sum: adea0b453f123191d6445c2e374b626b
-Description: A simple Tweak that enables all premium privileges in the Betternet VPN App from the Appstore.
-Name: BetterLife
-Author: Rango <Yung.Sp3cht@gmail.com>
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.betterlife
+
