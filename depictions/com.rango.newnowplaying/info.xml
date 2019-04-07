@@ -1,0 +1,31 @@
+<package>
+	<id>com.rango.resurgence</id>
+	<name>Resurgence</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>IOS reborn!</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		Enables a new and modern looking Now Playing UI in the Spotify Application
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,43 @@
+Package: com.rango.nightlight
+Version: 0.1
+Section: Themes
+Maintainer: Rango <Yung.Sp3cht@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: ./debs/NightLight_0.1.deb
+Size: 956554
+MD5sum: f2817acbe5f4e5fa43d29cac6a650e4d
+Description: A beautiful and colorful theme that looks best with a dark wallpaper.
+Name: NightLight
+Author: Rango <Yung.Sp3cht@gmail.com>
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.nightlight
+
+Package: com.rango.resurgence
+Version: 0.1
+Section: Themes
+Maintainer: Rango <Yung.Sp3cht@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: ./debs/Resurgence_0.1.deb
+Size: 492710
+MD5sum: 72bd8568bc516827447f0e0c014982a2
+Description: IOS reborn!
+Name: Resurgence
+Author: Rango <Yung.Sp3cht@gmail.com>
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.resurgence
+
+Package: com.rango.newnowplaying
+Version: 1.1
+Section: Tweaks
+Maintainer: Rango <Yung.Sp3cht@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NewNowPlaying_1.1.deb
+Size: 7042 
+MD5sum: 0c91a182fb776c161bf15b5ff24b33a7
+Description: Enables a new and modern looking Now Playing UI in the Spotify Application
+Name: NewNowPlaying
+Author: Rango <Yung.Sp3cht@gmail.com>
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
+
+
