@@ -18,6 +18,10 @@
 		Enables a new and modern looking Now Playing UI in the Spotify Application
 		]]>
              </description>
+             <description>
+             This Tweak is open source! Check out the code at </br>
+https://github.com/YungSpecht/NewNowPlaying
+             </description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
@@ -26,6 +30,7 @@
     </screenshots>
 	<changelog>
 		<change>Initial release</change>
+             <change>Fixed the Controls disappearing after a few seconds</change>
 	</changelog>
 	<links></links>
 </package>
