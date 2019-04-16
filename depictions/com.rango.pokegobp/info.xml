@@ -1,7 +1,7 @@
 <package>
 	<id>com.rango.pokegobp</id>
 	<name>PokeGoBP</name>
-	<version>0.2</version>
+	<version>0.3</version>
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
@@ -28,7 +28,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Hopefully fix failure after a few minutes</change>
+		<change>Enabled Debugger</change>
 	</changelog>
 	<links></links>
 </package>

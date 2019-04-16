@@ -1,4 +1,8 @@
 <changelog>
+      <changes>
+      <version>0.3</version>
+      <change>Debugger enabled</change>
+      </changes>
 	<changes>
       <version>0.2</version>
       <change>Hopefully fix failure after a few minutes</change>
