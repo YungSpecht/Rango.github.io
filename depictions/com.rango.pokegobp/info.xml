@@ -1,27 +1,25 @@
 <package>
-	<id>com.rango.resurgence</id>
-	<name>Resurgence</name>
+	<id>com.rango.pokegobp</id>
+	<name>PokeGoBP</name>
 	<version>0.1</version>
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
-			<maxiOS>12.1.2</maxiOS>
+			<maxiOS>12.1.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>mobilesubstrate</dependencies>
-	<shortDescription>IOS reborn!</shortDescription>
+	<shortDescription>Bypass jailbreak Detection in the Pokémon GO App!</shortDescription>
 	<descriptionlist>
 		
 		
 		<description><![CDATA[
-		Enables a new and modern looking Now Playing UI in the Spotify Application
+		This tweak bypasses Jailbreak Detection in the Pokémon GO App!
 		]]>
              </description>
-             <description>
-             This Tweak is open source! Check out the code at </br>
-https://github.com/YungSpecht/NewNowPlaying
-             </description>
+             <description>It is possible that this method is quickly patched by NianticLabs.<br/> To keep working for a longer time it is kept close-sourced.         
+		</description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
@@ -30,7 +28,6 @@ https://github.com/YungSpecht/NewNowPlaying
     </screenshots>
 	<changelog>
 		<change>Initial release</change>
-             <change>Fixed the Controls disappearing after a few seconds</change>
 	</changelog>
 	<links></links>
 </package>

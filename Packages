@@ -26,18 +26,18 @@ Name: Resurgence
 Author: Rango <Yung.Sp3cht@gmail.com>
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.resurgence
 
-Package: com.rango.newnowplaying
-Version: 1.1
+Package: com.rango.pokegobp
+Version: 0.1
 Section: Tweaks
 Maintainer: Rango <Yung.Sp3cht@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/NewNowPlaying_1.1.deb
-Size: 7042 
-MD5sum: 0c91a182fb776c161bf15b5ff24b33a7
-Description: Enables a new and modern looking Now Playing UI in the Spotify Application
-Name: NewNowPlaying
+Filename: ./debs/PokeGoBP.deb
+Size: 10126
+MD5sum: 94dd79013b7dd97feb0f9bd9f8c0ef5a
+Description: Bypass Jailbreak Detection in the Pokémon GO App!
+Name: PokeGoBP
 Author: Rango <Yung.Sp3cht@gmail.com>
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 
 
