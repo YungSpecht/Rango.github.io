@@ -39,17 +39,3 @@ Description: Bypass Jailbreak Detection in the Pokémon GO App!
 Name: PokeGoBP
 Author: Rango <Yung.Sp3cht@gmail.com>
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
-
-Package: com.rango.artistry
-Version: 1.2
-Section: Tweaks
-Maintainer: Rango <Yung.Sp3cht@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Artistry_1.2.deb
-Size: 6728 
-MD5sum: 00f631985742d8f22acaaccd0eb384c5
-Description: Adds Song Artworks in every Spotify Playlist!
-Name: Artistry 
-Author: Rango <Yung.Sp3cht@gmail.com>
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistry
