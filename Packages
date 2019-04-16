@@ -49,9 +49,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/Artistry_1.2.deb
 Size: 6728 
 MD5sum: 00f631985742d8f22acaaccd0eb384c5
-Description: Adds Song Artworks in all of your Spotify Playlists!
-Name: Artistry
+Description: Adds Song Artworks in every Spotify Playlist!
+Name: Artistry 
 Author: Rango <Yung.Sp3cht@gmail.com>
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistry
-
-
