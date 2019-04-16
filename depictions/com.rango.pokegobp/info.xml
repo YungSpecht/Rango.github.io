@@ -28,8 +28,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Initial release</change>
-            <change>Hopefully fix the failure after a few minutes<change/>
+		<change>Hopefully fix failure after a few minutes</change>
 	</changelog>
 	<links></links>
 </package>
