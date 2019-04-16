@@ -2,7 +2,8 @@
 	<changes>
       <version>0.2</version>
       <change>Hopefully fix failure after a few minutes</change>
-       <changes>
+        </changes>
+        <changes>
 		<version>0.1</version>
 		<change>Initial release</change>
 	</changes>
