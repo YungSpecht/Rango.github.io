@@ -5,12 +5,12 @@
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
-			<maxiOS>12.1.1</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>mobilesubstrate</dependencies>
-	<shortDescription>Bypass jailbreak Detection in the Pokémon GO App!</shortDescription>
+	<shortDescription>PokémonGo Jailbreak Detection Bypass</shortDescription>
 	<descriptionlist>
 		
 		
@@ -18,7 +18,8 @@
 		This tweak bypasses Jailbreak Detection in the Pokémon GO App!
 		]]>
              </description>
-             <description>It is possible that this method is quickly patched by NianticLabs.<br/> To keep working for a longer time it is kept close-sourced.         
+             <description>It is possible that this method is quickly patched by NianticLabs.  
+ To keep working for a longer time it is kept close-sourced.         
 		</description>
 	</descriptionlist>
     <screenshots>

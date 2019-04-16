@@ -1,7 +1,7 @@
 <package>
-	<id>com.rango.resurgence</id>
-	<name>Resurgence</name>
-	<version>0.1</version>
+	<id>com.rango.artistry</id>
+	<name>Artistry</name>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
@@ -9,16 +9,13 @@
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>com.anemonetheming.anemone</dependencies>
-	<shortDescription>IOS reborn!</shortDescription>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Song Artworks next to Playlists</shortDescription>
 	<descriptionlist>
 		
 		
 		<description><![CDATA[
-		-so far about 50 Icons<br/> 
-		-Changes to iOS that makes it more modern<br/>
-             -If you have Icon requests just contact me on Twitter<br/>
-             -If there are icon requests weekly Updates are guaranteed<br/> 
+		This tweak adds Song Artworks next to all of your Spotify Playlists!
 		]]>
              </description>
 	</descriptionlist>
@@ -28,7 +25,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fixed ColorFlow Complications</change>
 	</changelog>
 	<links></links>
 </package>
