@@ -27,7 +27,7 @@ By default Spotify prioritizes Songs you have listened to more often.
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Cleaned up code</change>
 	</changelog>
 	<links></links>
 </package>

@@ -50,16 +50,16 @@ Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 Name: PokeGoBP
 
 Package: com.rango.trueshuffle
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
-Filename: ./debs/com.rango.trueshuffle_1.0_iphoneos-arm.deb
-Size: 7234
-MD5sum: c780945569426280e166729fb6eed67f
-SHA1: 3287f96d2e390879b578322a4e94b980a6670831
-SHA256: 8e5ee6c2248bdb8991788964a64dcbefa78dbb8a7557e6298c8818aef27e376b
+Filename: ./debs/com.rango.trueshuffle_1.0.1_iphoneos-arm.deb
+Size: 7276
+MD5sum: f92917e9d82a9a6eec3d3adaaf2cb856
+SHA1: 993c4e0a66d56a006d3d574bb863cadaf1e4a1c6
+SHA256: bf434781452b8abb05bf8d4b1a1a2c526547a143c94e222f2d99151249e2cbf7
 Section: Tweaks
 Description: True random shuffling in the Spotify App!
 Author: Yung Specht
