@@ -1,0 +1,31 @@
+<package>
+	<id>com.rango.artistry</id>
+	<name>Artistry</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Song Artworks in every Playlist!</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		This tweak adds Song Artworks in every Playlist in the Spotify App!
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>ColorFlow Compatibility</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,14 @@
+<changelog>
+      <changes>
+             <version>1.2</version>
+             <change>ColorFlow Compatibility</change>
+      </changes>
+      <changes>
+             <version>1.1</version>
+             <change>Improved reliability</change>
+      </changes> 
+	<changes>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changes>
+</changelog>
