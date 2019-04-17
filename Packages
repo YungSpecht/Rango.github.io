@@ -51,12 +51,12 @@ Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.trueshuffle_1.0_iphoneos-arm.deb
-Size: 7226
-MD5sum: 11adcd70aee9b19a92434d08c11ddbe4
-SHA1: 14d0e7602c733f68eb987ff04201729be2bbe89c
-SHA256: 7705ceee69f3186d2d0f924fb2f3c5c6a15cd82a936bb6afc6a1a58748c38d0c
+Size: 7234
+MD5sum: c780945569426280e166729fb6eed67f
+SHA1: 3287f96d2e390879b578322a4e94b980a6670831
+SHA256: 8e5ee6c2248bdb8991788964a64dcbefa78dbb8a7557e6298c8818aef27e376b
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: True random shuffling in the Spotify App!
 Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.trueshuffle
 Name: TrueShuffle
