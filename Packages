@@ -27,14 +27,14 @@ Author: Rango <Yung.Sp3cht@gmail.com>
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.resurgence
 
 Package: com.rango.pokegobp
-Version: 0.3.0.1-1+debug
+Version: 0.3.1-1+debug
 Section: Tweaks
 Maintainer: Rango <Yung.Sp3cht@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.rango.pokegobp_0.3.0.1-1+debug_iphoneos-arm.deb
-Size: 13208
-MD5sum: 5326cba23c263e82b69ddc45b8b1da86
+Filename: ./debs/com.rango.pokegobp_0.3.1-1+debug_iphoneos-arm.deb
+Size: 15136
+MD5sum: 3eaaed76d92a96be2234ac175210a064
 Description: Bypass Jailbreak Detection in the Pokémon GO App!
 Name: PokeGoBP
 Author: Rango <Yung.Sp3cht@gmail.com>

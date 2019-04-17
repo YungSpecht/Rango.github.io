@@ -1,5 +1,10 @@
 <changelog>
      <changes>
+     <version>0.3.1-1+debug</version>
+     <change>Disables Token Authentification</change>
+     <change>Hopefully improves reliability</change>
+     </changes>
+     <changes>
      <version>0.3.0.1-1+debug</version>
      <change>Fixed Cydia Update Bug</change>
      </changes>
