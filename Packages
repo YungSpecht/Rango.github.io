@@ -20,10 +20,10 @@ Maintainer: Rango
 Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.pokegobp_0.3.1-1+debug_iphoneos-arm.deb
-Size: 15182
-MD5sum: 5a26033edf6e2acff0e3be1f4f01686f
-SHA1: 8bf874892881d759bd3e35c4a1802872e0aec12e
-SHA256: 9c32961b50809f7199b46c33f388ee584435ecd8e1424dba6fa7ecc92ffcb453
+Size: 15178
+MD5sum: 2f182079aab39e8d6692af755d5e18f4
+SHA1: e3747d16ea22b26161a40a189d3668d6b97bb1f4
+SHA256: d25b4bf3de585ce9b250285e6a96f9333c3cfd852079e4b3ef2ab5828d44c3dd
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Rango
