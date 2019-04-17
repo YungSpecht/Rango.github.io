@@ -20,12 +20,12 @@ Maintainer: Rango
 Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.pokegobp_0.3.1-1+debug_iphoneos-arm.deb
-Size: 15178
-MD5sum: 2f182079aab39e8d6692af755d5e18f4
-SHA1: e3747d16ea22b26161a40a189d3668d6b97bb1f4
-SHA256: d25b4bf3de585ce9b250285e6a96f9333c3cfd852079e4b3ef2ab5828d44c3dd
+Size: 15194
+MD5sum: 1cb14bb68f005c9d97e1d05313c3ff1b
+SHA1: d64991f680553c20aa6b31eacbe2963915d17801
+SHA256: a806aa69b53a871acc2f83bc3c4034751f8e264af46bc3c588304866f6550499
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Bypass PokémonGo Jailbreak Detection!
 Author: Rango
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 Name: PokeGoBP
