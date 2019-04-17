@@ -1,3 +1,37 @@
+Package: com.rango.artistry
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Rango
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.rango.artistry_1.1_iphoneos-arm.deb
+Size: 6744
+MD5sum: 9c0127fda070214a93867d326f5896d4
+SHA1: 61063769829a9b75485416032f5ca988c13afb31
+SHA256: e8d6059510b778c7c642d442868c8c5838579a33936176c703cd534eb40d3202
+Section: Tweaks
+Description: Show Song Artworks in all Spotify Playlists!
+Author: Yung Specht
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistry
+Name: Artistry
+
+Package: com.rango.newnowplaying
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Rango
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.rango.newnowplaying_1.1_iphoneos-arm.deb
+Size: 7058
+MD5sum: 258f5b67d9a94814e6348d8d57999691
+SHA1: 2278c577cb8e122f6953ed44e6deb92cf6d0f657
+SHA256: 6cc3326b2515177120b1af9aa0cb3fa48963a1af30a6edd83d1c6d1253aed673
+Section: Tweaks
+Description: Enables a new and modern looking Now Playing UI in the Spotify Application.
+Author: Yung Specht
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
+Name: NewNowPlaying
+
 Package: com.rango.nightlight
 Version: 0.1
 Architecture: iphoneos-arm
