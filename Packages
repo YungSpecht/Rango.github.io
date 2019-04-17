@@ -1,14 +1,14 @@
 Package: com.rango.artistry
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
-Filename: ./debs/com.rango.artistry_1.1_iphoneos-arm.deb
-Size: 6744
-MD5sum: 9c0127fda070214a93867d326f5896d4
-SHA1: 61063769829a9b75485416032f5ca988c13afb31
-SHA256: e8d6059510b778c7c642d442868c8c5838579a33936176c703cd534eb40d3202
+Filename: ./debs/com.rango.artistry_1.2_iphoneos-arm.deb
+Size: 6738
+MD5sum: 2dff49c3c5c9136752d00a129dcf9412
+SHA1: bea3b7ae73edef0447940b84b41a276174b2d508
+SHA256: b1d122be656d74cdc31069f9fa99b347285c5e9eb4ccbb5e5bfd2eec9bf1d44b
 Section: Tweaks
 Description: Show Song Artworks in all Spotify Playlists!
 Author: Yung Specht
@@ -32,21 +32,6 @@ Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
 Name: NewNowPlaying
 
-Package: com.rango.nightlight
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Rango <@Yung_Specht>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/NightLight_0.1.deb
-Size: 956554
-MD5sum: f2817acbe5f4e5fa43d29cac6a650e4d
-SHA1: 4fc53797f7c9fa2f38e644957e060850c27b6476
-SHA256: 681568badf75ce4a33eec976c033f7d551dfe22d484c32c756924334d1f52b4c
-Section: Themes
-Description: A beautiful and colorful Theme
-Author: Rango <Yung.Sp3cht@gmail.com>
-Name: NightLight
-
 Package: com.rango.pokegobp
 Version: 0.3.1-1+debug
 Architecture: iphoneos-arm
@@ -63,20 +48,6 @@ Description: Bypass PokémonGo Jailbreak Detection!
 Author: Rango
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 Name: PokeGoBP
-
-Package: com.rango.resurgence
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Yung_Specht
-Filename: ./debs/Resurgence_0.1.deb
-Size: 492710
-MD5sum: 72bd8568bc516827447f0e0c014982a2
-SHA1: 910a9c52706b11bd861690678aaef535cddcec6a
-SHA256: 6389be05118fe15a311a54e3670498898a7e5463334428def999736118563f05
-Section: Themes
-Description: IOS reborn!
-Author: Rango
-Name: Resurgence
 
 Package: com.rango.trueshuffle
 Version: 1.0
