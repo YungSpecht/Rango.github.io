@@ -1,41 +1,45 @@
 Package: com.rango.nightlight
 Version: 0.1
-Section: Themes
-Maintainer: Rango <Yung.Sp3cht@gmail.com>
-Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
+Maintainer: Rango <@Yung_Specht>
+Depends: com.anemonetheming.anemone
 Filename: ./debs/NightLight_0.1.deb
 Size: 956554
 MD5sum: f2817acbe5f4e5fa43d29cac6a650e4d
-Description: A beautiful and colorful theme that looks best with a dark wallpaper.
-Name: NightLight
-Author: Rango <Yung.Sp3cht@gmail.com>
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.nightlight
-
-Package: com.rango.resurgence
-Version: 0.1
+SHA1: 4fc53797f7c9fa2f38e644957e060850c27b6476
+SHA256: 681568badf75ce4a33eec976c033f7d551dfe22d484c32c756924334d1f52b4c
 Section: Themes
-Maintainer: Rango <Yung.Sp3cht@gmail.com>
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Filename: ./debs/Resurgence_0.1.deb
-Size: 492710
-MD5sum: 72bd8568bc516827447f0e0c014982a2
-Description: IOS reborn!
-Name: Resurgence
+Description: A beautiful and colorful Theme
 Author: Rango <Yung.Sp3cht@gmail.com>
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.resurgence
+Name: NightLight
 
 Package: com.rango.pokegobp
 Version: 0.3.1-1+debug
-Section: Tweaks
-Maintainer: Rango <Yung.Sp3cht@gmail.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Maintainer: Rango
+Installed-Size: 160
+Depends: mobilesubstrate
 Filename: ./debs/com.rango.pokegobp_0.3.1-1+debug_iphoneos-arm.deb
 Size: 15136
 MD5sum: 3eaaed76d92a96be2234ac175210a064
-Description: Bypass Jailbreak Detection in the PokémonGo App!
+SHA1: 73cf688c4eed6d9b1aef57348e36d043c5b9124b
+SHA256: 367996dc34ee975274124f8baebb1c2aeba2388378a50e78eb661ec953e3b15e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Rango
 Name: PokeGoBP
-Author: Rango <Yung.Sp3cht@gmail.com>
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
+
+Package: com.rango.resurgence
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Yung_Specht
+Filename: ./debs/Resurgence_0.1.deb
+Size: 492710
+MD5sum: 72bd8568bc516827447f0e0c014982a2
+SHA1: 910a9c52706b11bd861690678aaef535cddcec6a
+SHA256: 6389be05118fe15a311a54e3670498898a7e5463334428def999736118563f05
+Section: Themes
+Description: IOS reborn!
+Author: Rango
+Name: Resurgence
+
