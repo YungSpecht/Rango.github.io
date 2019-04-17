@@ -27,7 +27,7 @@ SHA256: 9c32961b50809f7199b46c33f388ee584435ecd8e1424dba6fa7ecc92ffcb453
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Rango
-Depiction: https://username.github.io/repo/depictions/?p=com.rango.pokegobp
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 Name: PokeGoBP
 
 Package: com.rango.resurgence
