@@ -1,22 +1,18 @@
 <changelog>
-     <changes>
-     <version>0.3.1-1+debug</version>
-     <change>Disables Token Authentification</change>
-     <change>Hopefully improves reliability</change>
-     </changes>
-     <changes>
-     <version>0.3.0.1-1+debug</version>
-     <change>///////////</change>
-     </changes>
       <changes>
-      <version>0.3-1+debug</version>
-      <change>Debugger enabled</change>
+             <version>0.3.1-1+debug</version>
+             <change>Disabled Token Authentification</change>
+             <change>Improved reliability</change>
       </changes>
+      <changes>
+             <version>0.3-1+debug</version>
+             <change>enabled Debugging</change>
+      </changes>
+      <changes>
+             <version>0.2</version>
+             <change>Improved reliability</change>
+      </changes> 
 	<changes>
-      <version>0.2</version>
-      <change>Hopefully fix failure after a few minutes</change>
-        </changes>
-        <changes>
 		<version>0.1</version>
 		<change>Initial release</change>
 	</changes>

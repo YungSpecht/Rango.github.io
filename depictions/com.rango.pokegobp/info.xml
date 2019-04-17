@@ -1,5 +1,5 @@
 <package>
-	<id>com.rango.pokegobp</id>
+	<id>com.rango.nightlight</id>
 	<name>PokeGoBP</name>
 	<version>0.3.1-1+debug</version>
 	<compatibility>
@@ -10,16 +10,16 @@
 		</firmware>
 	</compatibility>
 	<dependencies>mobilesubstrate</dependencies>
-	<shortDescription>PokémonGo Jailbreak Detection Bypass</shortDescription>
+	<shortDescription>Bypass PokémonGo Jailbreak Detection!</shortDescription>
 	<descriptionlist>
 		
 		
 		<description><![CDATA[
-		This tweak bypasses Jailbreak Detection in the Pokémon GO App!
+		This tweak should bypass the Jailbreak Detection in the PokémonGo App. <br/>
+If you get kicked out after a few minutes, force close the App and sign in again.
 		]]>
              </description>
-             <description>It is possible that this method is quickly patched by NianticLabs.  
- To keep it working for a longer time it is kept close-sourced.         
+             <description>It’s not sure how long this will work as Niantic constantly changes their methods for jailbreak Detection...       
 		</description>
 	</descriptionlist>
     <screenshots>
@@ -28,8 +28,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Disables Token Authentification</change>
-            <change>Hopefully improves reliability</change>
+             <change> Disabled Token Authentification</change>
+		<change>Hopefully increase reliability</change>
 	</changelog>
 	<links></links>
 </package>
