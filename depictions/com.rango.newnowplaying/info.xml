@@ -1,0 +1,31 @@
+<package>
+	<id>com.rango.newnowplaying</id>
+	<name>NewNowPlaying</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>A new and modern NowPlaying UI!</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		This tweak adds a new and modern looking Now Playing UI in the Spotify App.
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Fixed controls disappearing</change>
+	</changelog>
+	<links></links>
+</package>
