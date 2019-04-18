@@ -1,7 +1,7 @@
 <package>
 	<id>com.rango.trueshuffle</id>
 	<name>TrueShuffle</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
@@ -20,6 +20,10 @@
 By default Spotify prioritizes Songs you have listened to more often.
 		]]>
              </description>
+             <description>
+ONCE INSTALLED THIS TWEAK IS ACTIVE AND WORKING <br/>
+No Options to configure
+             </description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
@@ -27,7 +31,8 @@ By default Spotify prioritizes Songs you have listened to more often.
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Cleaned up code</change>
+		<change>Improved reliability</change>
+             <change>removed the coloring of the shuffle icon as people got confused over it</change>
 	</changelog>
 	<links></links>
 </package>
