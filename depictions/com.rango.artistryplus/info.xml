@@ -1,6 +1,6 @@
 <package>
-	<id>com.rango.artistry++</id>
-	<name>Artistry++</name>
+	<id>com.rango.artistryplus</id>
+	<name>ArtistryPlus</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -15,12 +15,13 @@
 		
 		
 		<description><![CDATA[
-		This tweak adds Song Artworks in every Playlist in the Spotify App!<br/>  
-The ++ Version also includes the Songs tab.
+		This tweak adds Song Artworks in every Playlist in the Spotify App!<br/>
+This version also adds functionality for the songs tab.
 		]]>
              </description>
              <description>
-            IMPORTANT: This version of Artistry bundles the Artworkify Dylib by Julioverne. Credits for Artworks in the Songs Section therefore go to him!
+             IMPORTANT: This version bundles the Artworkify dylib by Julioverne. Credit for the songs tab therefore goes to him!
+             </description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
