@@ -15,6 +15,22 @@ Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistry
 Name: Artistry
 
+Package: com.rango.artistry++
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rango
+Depends: mobilesubstrate
+Filename: ./debs/com.rango.artistry++_1.0_iphoneos-arm.deb
+Size: 44606
+MD5sum: eff9a7e058247151a4239ca5a76fba1d
+SHA1: 596b3a5844d2498b83364f3bbea2561158894210
+SHA256: a71494fb545cff3a488818c387e182c5f2e85609348bdd35b27e721514675027
+Section: Tweaks
+Description: Show Song Artworks in all Spotify Playlists!
+Author: Yung Specht
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistry++
+Name: Artistry++
+
 Package: com.rango.newnowplaying
 Version: 1.1
 Architecture: iphoneos-arm
