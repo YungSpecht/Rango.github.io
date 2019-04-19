@@ -20,7 +20,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Rango
 Depends: mobilesubstrate
-Filename: ./debs/ArtistryPlus.deb
+Filename: ./debs/com.rango.artistryplus_1.0_iphoneos-arm.deb
 Size: 44608
 MD5sum: 7f9891909c514e9a8f764f8d4c1c2d0d
 SHA1: 7a3dd534cb220d513bce2c465623059f6ca1fd98
@@ -39,9 +39,9 @@ Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.dissipate_1.0_iphoneos-arm.deb
 Size: 6558
-MD5sum: ee9fdc60d6d7879d161d07087f1be936
-SHA1: f2b3b0d03760aa6d643fe52386f276e43419715d
-SHA256: 9a384f1aaaf2cc779f013d6aef0b45727efbe9b8fffa4d869e0d573e20044dd1
+MD5sum: 8c6675aaa0457c8fb108ef3cc6607889
+SHA1: c309749cddc5382201577b70d7f62bba1d7b8790
+SHA256: 4090091da7c238d26da761f0aa45d5ca6b7cf320d7d6394b085e3f8f4bca92d4
 Section: Tweaks
 Description: Hide Icon Labels on iOS 12 and below!
 Author: Yung Specht
