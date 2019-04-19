@@ -1,0 +1,31 @@
+<package>
+	<id>com.rango.artistry</id>
+	<name>Artistry</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Hide Icon Labels on iOS 12 & below!</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		This tweak hides the annoying and ugly Icon Labels on iOS 12 and below!
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links></links>
+</package>

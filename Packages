@@ -31,6 +31,23 @@ Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistryplus
 Name: ArtistryPlus
 
+Package: com.rango.dissipate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rango
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.rango.dissipate_1.0_iphoneos-arm.deb
+Size: 6558
+MD5sum: ee9fdc60d6d7879d161d07087f1be936
+SHA1: f2b3b0d03760aa6d643fe52386f276e43419715d
+SHA256: 9a384f1aaaf2cc779f013d6aef0b45727efbe9b8fffa4d869e0d573e20044dd1
+Section: Tweaks
+Description: Hide Icon Labels on iOS 12 and below!
+Author: Yung Specht
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.dissipate
+Name: Dissipate
+
 Package: com.rango.newnowplaying
 Version: 1.1
 Architecture: iphoneos-arm
