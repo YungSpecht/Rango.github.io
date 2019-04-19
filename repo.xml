@@ -5,6 +5,11 @@
 			<url>https://twitter.com/Yung_Specht</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
+             <link>
+			<name>View my Github</name>
+			<url>https://GitHub.com/YungSpecht</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
 		<link>
 			<name>Add me on Steam</name>
 			<url>https://steamcommunity.com/profiles/76561198801738217/</url>
