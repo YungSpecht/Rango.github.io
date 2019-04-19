@@ -99,3 +99,20 @@ Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.trueshuffle
 Name: TrueShuffle
 
+Package: com.rango.verifyme
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Rango
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.rango.verifyme_0.1_iphoneos-arm.deb
+Size: 6840
+MD5sum: 9feaadd0c6b1ee72c2511e7149d807d3
+SHA1: 39709d8747377ce49d3d6e6573456e7816a0ee98
+SHA256: f8d263226add33d2e6547b712512d21505627a961887b4e7e5559fd3311551dc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.verifyme
+Name: VerifyMe
+
