@@ -66,18 +66,18 @@ Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
 Name: NewNowPlaying
 
 Package: com.rango.pokegobp
-Version: 0.3.1-1+debug
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: Rango
-Installed-Size: 160
+Installed-Size: 132
 Depends: mobilesubstrate
-Filename: ./debs/com.rango.pokegobp_0.3.1-1+debug_iphoneos-arm.deb
-Size: 15194
-MD5sum: 1cb14bb68f005c9d97e1d05313c3ff1b
-SHA1: d64991f680553c20aa6b31eacbe2963915d17801
-SHA256: a806aa69b53a871acc2f83bc3c4034751f8e264af46bc3c588304866f6550499
+Filename: ./debs/com.rango.pokegobp_0.4_iphoneos-arm.deb
+Size: 7886
+MD5sum: e50d07200a01b7d13c4453136c9b8949
+SHA1: 6bb187a31edbd73bcbe4729f4f8e75c7a7ef98fd
+SHA256: 004e6ec349e3afa2815564c7c12273dd7bbe5d79233ee9cf18bdb94659f96f68
 Section: Tweaks
-Description: Bypass PokémonGo Jailbreak Detection!
+Description: An awesome MobileSubstrate tweak!
 Author: Rango
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 Name: PokeGoBP

@@ -1,5 +1,11 @@
 <changelog>
       <changes>
+             <version>0.4</version>
+             <change>Code cleanup</change>
+             <change>Disabled watchdog timer</change>
+		<change>Major reliability improvement</change>
+      </changes>
+      <changes>
              <version>0.3.1-1+debug</version>
              <change>Disabled Token Authentification</change>
              <change>Improved reliability</change>
