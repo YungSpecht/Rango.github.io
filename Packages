@@ -66,16 +66,16 @@ Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
 Name: NewNowPlaying
 
 Package: com.rango.pokegobp
-Version: 0.4.1-1+debug
+Version: 0.4.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: Rango
-Installed-Size: 184
+Installed-Size: 160
 Depends: mobilesubstrate
-Filename: ./debs/com.rango.pokegobp_0.4.1-1+debug_iphoneos-arm.deb
-Size: 17642
-MD5sum: 0b448db9928f12b57aafcfc55db00fef
-SHA1: f83b96e5ac5afdec07987701d7a51984d4f4886c
-SHA256: a25a8799da283e5aae4ce0868521a4fe44e758c011fe5fcd70ef112fac072d36
+Filename: ./debs/com.rango.pokegobp_0.4.2-1+debug_iphoneos-arm.deb
+Size: 14980
+MD5sum: 31c46d1adb0cb408c6601def9ef2cf4f
+SHA1: 4a4041b698636896c5fa9042ac3ce63f0762e73d
+SHA256: 9728308a74204a557ad6b3b12f5e37aae891bd4201d0a9ef5dc26d8317df6462
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Rango
