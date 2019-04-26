@@ -1,0 +1,32 @@
+<package>
+	<id>com.rango.nightlight</id>
+	<name>NightLight</name>
+	<version>0.2</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>com.anemonetheming.anemone</dependencies>
+	<shortDescription>A beautiful and colorful Theme!</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		-Over 100 Icons! <br/>
+             -For icon requests contact me on Twitter!
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Added Icons</change>
+	</changelog>
+	<links></links>
+</package>
