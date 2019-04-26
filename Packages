@@ -66,15 +66,15 @@ Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
 Name: NewNowPlaying
 
 Package: com.rango.nightlight
-Version: 0.2
+Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: Rango
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.rango.nightlight_0.2_iphoneos-arm.deb
-Size: 937980
-MD5sum: 837b43b6dbc4427464350c2feb911c93
-SHA1: 8250ba024ab10cbcdbea5dae1d710fa4a9642202
-SHA256: c86e083eb6fd8dd06f3ce96fb56ee0ff9fe146fb0974d9e5949eb113488aed01
+Filename: ./debs/com.rango.nightlight_0.2.1_iphoneos-arm.deb
+Size: 897778
+MD5sum: 2ec30795994f1869147cf862b81b39fb
+SHA1: 4493cdcb6a4a9d4b2954fb71a462e9dfb9ea7464
+SHA256: 085799ec31b29bc3868b8151596075d93d473e6dbedaa2ba138dbf21a59bdd65
 Section: Themes
 Description: A beautiful and colorful Theme!
 Author: Yung Specht
