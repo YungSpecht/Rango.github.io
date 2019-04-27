@@ -1,7 +1,7 @@
 <package>
 	<id>com.rango.nightlight</id>
 	<name>NightLight</name>
-	<version>0.2.1</version>
+	<version>0.3</version>
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
@@ -26,7 +26,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Fixed contacts icon</change>
+		<change>Fullfilled icon requests</change>
 	</changelog>
 	<links></links>
 </package>
