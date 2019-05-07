@@ -1,0 +1,78 @@
+{
+    "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "TrueShuffle",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "True random Shuffling for Spotify",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "url": "https://yungspecht.github.io/assets/screenshots/trueshuffle.png",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "This Tweak bypasses the Jailbreak Detection in the Pok\u00e9mon Go App! "
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.1.1",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "05-07-2019",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Rango",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
+}
