@@ -5,21 +5,6 @@
         {
             "views": [
                 {
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "PokeGoBp",
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "markdown": "Bypass Jailbreak Detection for Pok\u00e9mon Go",
-                    "class": "DepictionMarkdownView",
-                    "useSpacing": true
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "screenshots": [
                         {
                             "url": "https://yungspecht.github.io/assets/screenshots/pgbp2.png",
@@ -77,6 +62,6 @@
             "class": "DepictionStackView"
         }
     ],
-    "tintColor": "#0657bb",
+    "tintColor": "#f9b35c",
     "class": "DepictionTabView"
 }

@@ -5,21 +5,6 @@
         {
             "views": [
                 {
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Artistry",
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "markdown": "Album Artworks for every Playlist",
-                    "class": "DepictionMarkdownView",
-                    "useSpacing": true
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "screenshots": [
                         {
                             "url": "https://yungspecht.github.io/assets/screenshots/artistry.png",
@@ -73,6 +58,6 @@
             "class": "DepictionStackView"
         }
     ],
-    "tintColor": "#0657bb",
+    "tintColor": "#f9b35c",
     "class": "DepictionTabView"
 }

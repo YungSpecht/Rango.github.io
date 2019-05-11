@@ -6,21 +6,6 @@
             "tabname": "Details",
             "views": [
                 {
-                    "title": "TrueShuffle",
-                    "useBoldText": true,
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "True Shuffling for the Spotify App!",
-                    "useSpacing": true
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
@@ -73,7 +58,7 @@
         }
     ],
     "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
-    "tintColor": "#0657bb",
+    "tintColor": "#f9b35c",
     "minVersion": "0.1"
  "tabs": [
         {

@@ -5,16 +5,6 @@
         {
             "views": [
                 {
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Dissipate",
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "spacing": 4,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "screenshots": [
                         {
                             "url": "https://yungspecht.github.io/assets/screenshots/dissipate.png",
