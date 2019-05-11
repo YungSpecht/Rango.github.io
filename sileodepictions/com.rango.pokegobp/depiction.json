@@ -58,7 +58,7 @@
                     "class": "DepictionSpacerView"
                 }
             ],
-            "tabname": "Details",
+            "tabname": "Info",
             "class": "DepictionStackView"
         }
     ],

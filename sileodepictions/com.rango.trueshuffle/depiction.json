@@ -3,7 +3,7 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "Details",
+            "tabname": "Info",
             "views": [
                 {
                     "itemCornerRadius": 6,
@@ -60,9 +60,4 @@
     "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
     "tintColor": "#f9b35c",
     "minVersion": "0.1"
- "tabs": [
-        {
-            "class": "DepictionStackView",
-            "tabname": "Changelog",
-            "views": [
 }
