@@ -1,5 +1,5 @@
 {
-    "headerImage": "https://yungspecht.github.io/assets/screenshots/pgbp1.png, https://yungspecht.github.io/assets/headers/artistryplusplus.png",
+    "headerImage": "https://yungspecht.github.io/assets/screenshots/pgbp1.png, https://yungspecht.github.io/assets/headers/artistry.png",
     "minVersion": "0.1",
     "tabs": [
         {
@@ -7,7 +7,7 @@
                 {
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "ArtistryPlusPlus",
+                    "title": "ArtistryPlus",
                     "class": "DepictionSubheaderView"
                 },
                 {
@@ -26,7 +26,7 @@
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://yungspecht.github.io/assets/screenshots/artistryplusplus.png",
+                            "url": "https://yungspecht.github.io/assets/screenshots/artistryplus.png",
                             "accessibilityText": "Screenshot1"
                         }
                     ],
