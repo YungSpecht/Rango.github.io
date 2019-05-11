@@ -1,5 +1,5 @@
 {
-    "headerImage": "https://yungspecht.github.io/assets/screenshots/pgbp1.png, https://yungspecht.github.io/assets/headers/artistry.png",
+    "headerImage": "https://yungspecht.github.io/assets/headers/artistry.png",
     "minVersion": "0.1",
     "tabs": [
         {
@@ -22,12 +22,8 @@
                 {
                     "screenshots": [
                         {
-                            "url": "https://yungspecht.github.io/assets/screenshots/pgbp1.png",
-                            "accessibilityText": "Screenshot0"
-                        },
-                        {
                             "url": "https://yungspecht.github.io/assets/screenshots/artistryplus.png",
-                            "accessibilityText": "Screenshot1"
+                            "accessibilityText": "Screenshot0"
                         }
                     ],
                     "itemCornerRadius": 6,
@@ -39,7 +35,7 @@
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "class": "DepictionMarkdownView",
-                    "markdown": "This Tweak adds Album Artworks to all of your Spotify Playlists!  \r\nIMPORTANT: This Version bundles the Artworkify dylib, therefore credits for that go to Julioverne "
+                    "markdown": "IMPORTANT: This Version bundles the Artworkify dylib, therefore credits for that go to Julioverne "
                 },
                 {
                     "class": "DepictionSeparatorView"
