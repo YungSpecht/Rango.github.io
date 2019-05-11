@@ -1,79 +1,78 @@
 {
-    "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
-    "minVersion": "0.1",
+    "class": "DepictionTabView",
     "tabs": [
         {
+            "class": "DepictionStackView",
+            "tabname": "Details",
             "views": [
                 {
-                    "useBoldText": true,
-                    "useBottomMargin": false,
                     "title": "TrueShuffle",
-                    "class": "DepictionSubheaderView"
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false
                 },
                 {
-                    "markdown": "True random Shuffling for Spotify",
                     "class": "DepictionMarkdownView",
+                    "markdown": "True Shuffling for the Spotify App!",
                     "useSpacing": true
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
-                    "screenshots": [
-                        {
-                            "url": "https://yungspecht.github.io/assets/screenshots/trueshuffle.png",
-                            "accessibilityText": "Screenshot0"
-                        }
-                    ],
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}"
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://yungspecht.github.io/assets/screenshots/trueshuffle.png"
+                        }
+                    ]
                 },
                 {
-                    "useBoldText": true,
-                    "useBottomMargin": false,
                     "title": "markdown-description",
+                    "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "When you enable shuffling in the Spotify App, Songs that you have listened to more frequently get prioritized. 
-This Tweak bypasses this."
+                    "markdown": "When you enable Shuffling in the Spotify app, Songs  that you have listened to more often get prioritized.  \r\nThis tweak bypasses that.",
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1.1",
                     "title": "Version",
+                    "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "05-07-2019",
                     "title": "Released",
+                    "text": "05-11-2019",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "Free",
                     "title": "Price",
+                    "text": "Free",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
-                    "text": "Rango",
                     "title": "Developer",
+                    "text": "Rango",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 }
-            ],
-            "tabname": "Details",
-            "class": "DepictionStackView"
+            ]
         }
     ],
+    "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
     "tintColor": "#0657bb",
-    "class": "DepictionTabView"
+    "minVersion": "0.1"
 }
