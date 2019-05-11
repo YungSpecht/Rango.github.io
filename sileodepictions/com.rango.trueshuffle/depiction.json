@@ -75,4 +75,9 @@
     "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
+ "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
 }

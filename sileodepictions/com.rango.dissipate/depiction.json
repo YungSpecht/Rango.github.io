@@ -11,12 +11,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "Hide Icon Labels",
-                    "class": "DepictionMarkdownView",
-                    "useSpacing": true
-                },
-                {
-                    "spacing": 8,
+                    "spacing": 4,
                     "class": "DepictionSpacerView"
                 },
                 {
@@ -73,6 +68,6 @@
             "class": "DepictionStackView"
         }
     ],
-    "tintColor": "#0657bb",
+    "tintColor": "#f9b35c",
     "class": "DepictionTabView"
 }
