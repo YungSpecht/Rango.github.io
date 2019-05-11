@@ -5,15 +5,16 @@ Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.artistry_1.2_iphoneos-arm.deb
-Size: 6738
-MD5sum: 2dff49c3c5c9136752d00a129dcf9412
-SHA1: bea3b7ae73edef0447940b84b41a276174b2d508
-SHA256: b1d122be656d74cdc31069f9fa99b347285c5e9eb4ccbb5e5bfd2eec9bf1d44b
+Size: 6684
+MD5sum: 0e649ab8a536eafca4dcf501da618079
+SHA1: a5fd8728fe77f9d3393c2005fb1160d8585a0b92
+SHA256: b1b42033a2748790f0763082b9aac140f2414365be322793760c949c96c60915
 Section: Tweaks
 Description: Show Song Artworks in all Spotify Playlists!
 Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistry
 Name: Artistry
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.artistry/depiction.json
 
 Package: com.rango.artistryplus
 Version: 1.0
@@ -21,15 +22,16 @@ Architecture: iphoneos-arm
 Maintainer: Rango
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.artistryplus_1.0_iphoneos-arm.deb
-Size: 44608
-MD5sum: 7f9891909c514e9a8f764f8d4c1c2d0d
-SHA1: 7a3dd534cb220d513bce2c465623059f6ca1fd98
-SHA256: 7289cc71c0ce425e9b78a1c167c6284cf502d38fb6f4f9b87da408bebfe3e634
+Size: 44654
+MD5sum: 2b7f0c6681d7eb7da5ccbf3f22963367
+SHA1: 0e175ae788556b7437022fd6fd14793ec62b9464
+SHA256: 813b89d8a413838bd1600a5e97267ddb8b9f2a49521ce4a2afb515033ec58c97
 Section: Tweaks
 Description: Show Song Artworks in all Spotify Playlists!
 Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.artistryplus
 Name: ArtistryPlus
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.artistryplus/depiction.json
 
 Package: com.rango.dissipate
 Version: 1.0.1
@@ -56,15 +58,16 @@ Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.newnowplaying_1.1_iphoneos-arm.deb
-Size: 7058
-MD5sum: 258f5b67d9a94814e6348d8d57999691
-SHA1: 2278c577cb8e122f6953ed44e6deb92cf6d0f657
-SHA256: 6cc3326b2515177120b1af9aa0cb3fa48963a1af30a6edd83d1c6d1253aed673
+Size: 7094
+MD5sum: 147250b85be7bd966b93be3a575a3f15
+SHA1: 92e1be8bf8c0e58eb5c07317b568a0f2c5379e33
+SHA256: 6c14a28b17d9e6a22e517652ad227818225f667b44755dde1746084e0aa8b8d3
 Section: Tweaks
 Description: Enables a new and modern looking Now Playing UI in the Spotify Application.
 Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.newnowplaying
 Name: NewNowPlaying
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.newnowplaying/depiction.json
 
 Package: com.rango.nightlight
 Version: 0.3
@@ -72,15 +75,16 @@ Architecture: iphoneos-arm
 Maintainer: Rango
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.rango.nightlight_0.3_iphoneos-arm.deb
-Size: 933256
-MD5sum: fdc0e18ced3d1dbf398557e34c74bfc2
-SHA1: 3322101fed4e33674e8d2a99e04060abf5e78fce
-SHA256: 3282a7981c2f315db0f8561f3d79068f0a4a31514578cecc4573b49cce85cc41
+Size: 933004
+MD5sum: 380528bdb88bb904f594ce4d4141aa83
+SHA1: 6cdd4be65dd30a99aea0e5ee5b79a20edba28e93
+SHA256: 679c0743f6e709cfa895961cb7395a7a038a4395685839bb9e8ee31a511fc730
 Section: Themes
 Description: A beautiful and colorful Theme!
 Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.nightlight
 Name: NightLight
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.nightlight/depiction.json
 
 Package: com.rango.pokegobp
 Version: 0.4.2-1+debug
@@ -89,15 +93,16 @@ Maintainer: Rango
 Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.pokegobp_0.4.2-1+debug_iphoneos-arm.deb
-Size: 14980
-MD5sum: 31c46d1adb0cb408c6601def9ef2cf4f
-SHA1: 4a4041b698636896c5fa9042ac3ce63f0762e73d
-SHA256: 9728308a74204a557ad6b3b12f5e37aae891bd4201d0a9ef5dc26d8317df6462
+Size: 10844
+MD5sum: 51a97c4b73a858701d553eb3b8f4fccf
+SHA1: bd22360c8e865e8ed6844c1dd2b2c5f1d460129b
+SHA256: 0a52b0463ec5e913075d304473c90fad68de4c971a70a114ab6a92b8462dc89d
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Bypass Jailbreak Detection in the Pokémon Go App!
 Author: Rango
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.pokegobp
 Name: PokeGoBP
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.pokegobp/depiction.json
 
 Package: com.rango.trueshuffle
 Version: 1.1.1
@@ -106,30 +111,14 @@ Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.trueshuffle_1.1.1_iphoneos-arm.deb
-Size: 6822
-MD5sum: 05e4a6464588f1ef0d7356ac3e57ed51
-SHA1: 60415ef244334f0d82c8f9d5684bae415cafd988
-SHA256: 30e00933e7f64e46801f9660d03b9ed8d86a05515ec0be400b2ada3739deba19
+Size: 6724
+MD5sum: 4ead517a07b03f918282a3367ca690d1
+SHA1: ecf8da4d0938167439eb5fb55908f74554955ff5
+SHA256: 1fea05a4af489c3a53eb67b432450cea492400dcb24da012992932e31ef7521a
 Section: Tweaks
 Description: True random shuffling in the Spotify App!
 Author: Yung Specht
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.trueshuffle
 Name: TrueShuffle
-
-Package: com.rango.verifyme
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Rango
-Installed-Size: 132
-Depends: mobilesubstrate
-Filename: ./debs/com.rango.verifyme_0.1_iphoneos-arm.deb
-Size: 6840
-MD5sum: 9feaadd0c6b1ee72c2511e7149d807d3
-SHA1: 39709d8747377ce49d3d6e6573456e7816a0ee98
-SHA256: f8d263226add33d2e6547b712512d21505627a961887b4e7e5559fd3311551dc
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Rango
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.verifyme
-Name: VerifyMe
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.trueshuffle/depiction.json
 
