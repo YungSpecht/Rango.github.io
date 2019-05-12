@@ -20,7 +20,8 @@
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "class": "DepictionMarkdownView",
-                    "markdown": "IMPORTANT: This Version bundles the Artworkify dylib, therefore credits for that go to Julioverne "
+                    "markdown": "I contrast to Artistry this version also shows Artworks inside your saved Songs Section.   \r\n 
+  \r\n IMPORTANT: This Version bundles the Artworkify dylib, therefore credits for that go to Julioverne "
                 },
                 {
                     "class": "DepictionSeparatorView"
