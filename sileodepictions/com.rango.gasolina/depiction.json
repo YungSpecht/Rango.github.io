@@ -20,7 +20,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Increase your Battery Life on iOS by safely reducing some system functions and enabling some power saving features!\r\n\r\Preferences and CC Toggle will propably get added in the future.",
+                    "markdown": "Increase your Battery Life on iOS by safely reducing some system functions and enabling some power saving features! \r\n\r\ Preferences and CC Toggle will propably get added in the future.",
                     "useBottomMargin": false
                 },
                 {
