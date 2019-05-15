@@ -1,0 +1,34 @@
+<package>
+	<id>com.rango.trueshuffle</id>
+	<name>TrueShuffle</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Saves you some Battery!</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		Increase your Battery Life on iOS by safely reducing some system functions and enabling some power saving features. <br/>
+<br/>
+
+Note: This tweak makes enabling LowPower Mode obsolete.
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>nightlight-pic.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
