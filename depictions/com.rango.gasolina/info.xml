@@ -1,7 +1,7 @@
 <package>
 	<id>com.rango.trueshuffle</id>
-	<name>TrueShuffle</name>
-	<version>0.1</version>
+	<name>Gasolina</name>
+	<version>0.2</version>
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>

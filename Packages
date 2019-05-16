@@ -52,22 +52,20 @@ Name: Dissipate
 Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.dissipate/depiction.json
 
 Package: com.rango.gasolina
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
-Filename: ./debs/com.rango.gasolina_0.1_iphoneos-arm.deb
-Size: 7250
-MD5sum: 4f566f6eafd0d59d6c009b3b4bfdbc73
-SHA1: 7216fb1e9a79fc144c6d9dbd2711f99e7be072cc
-SHA256: f8eb531b42058cb501bd9078cf979e1844d6590114d63e7eb56bd01a8dc7c053
+Filename: ./debs/com.rango.gasolina_0.2_iphoneos-arm.deb
+Size: 7476
+MD5sum: 1ae74d64a67baccbbbae2b50620c6760
+SHA1: 6c9b20fbeb6558b717c1325b52669dd5fd5c43bc
+SHA256: a27aacc447744f93e8ae37ed4c2f1554a5ecdbd08d9d67ea048ba8e0608dd704
 Section: Tweaks
 Description: Saves you some battery!
 Author: Rango
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
 Name: Gasolina
-Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
 
 Package: com.rango.newnowplaying
 Version: 1.1
