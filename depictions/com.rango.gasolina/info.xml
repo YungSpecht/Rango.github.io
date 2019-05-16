@@ -1,7 +1,13 @@
 <package>
+<<<<<<< HEAD
 	<id>com.rango.trueshuffle</id>
 	<name>Gasolina</name>
 	<version>0.2</version>
+=======
+	<id>com.rango.gasolina</id>
+	<name>Gasolina</name>
+	<version>0.1</version>
+>>>>>>> a3f501f6b97e228c70d35a79df07e660360c86bf
 	<compatibility>
 		<firmware>
                    <miniOS>10.0</miniOS>
@@ -17,6 +23,8 @@
 		<description><![CDATA[
 		Increase your Battery Life on iOS by safely reducing some system functions and enabling some power saving features. <br/>
 <br/>
+
+Preferences and CC Toggle will propably get added in the future. <br/><br/>
 
 Note: This tweak makes enabling LowPower Mode obsolete.
 		]]>
