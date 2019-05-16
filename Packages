@@ -58,14 +58,16 @@ Maintainer: Rango
 Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/com.rango.gasolina_0.2_iphoneos-arm.deb
-Size: 7476
-MD5sum: 1ae74d64a67baccbbbae2b50620c6760
-SHA1: 6c9b20fbeb6558b717c1325b52669dd5fd5c43bc
-SHA256: a27aacc447744f93e8ae37ed4c2f1554a5ecdbd08d9d67ea048ba8e0608dd704
+Size: 7536
+MD5sum: 402054e2000f0af50feba1113f24790d
+SHA1: 86131f0126cbeb4e76b89f3f081fb8956486ee54
+SHA256: 48cee0ec36594e5b96b131092e1ca89b3312bdefd0b0cd1ead9b40ab1b6cea40
 Section: Tweaks
 Description: Saves you some battery!
 Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
 Name: Gasolina
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
 
 Package: com.rango.newnowplaying
 Version: 1.1
