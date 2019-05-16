@@ -28,11 +28,7 @@
                 },
                 {
                     "title": "Version",
-<<<<<<< HEAD
                     "text": "0.2",
-=======
-                    "text": "0.1",
->>>>>>> a3f501f6b97e228c70d35a79df07e660360c86bf
                     "class": "DepictionTableTextView"
                 },
                 {
