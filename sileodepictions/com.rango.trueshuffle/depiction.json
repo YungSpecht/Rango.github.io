@@ -70,8 +70,12 @@
 					"class":"DepictionMarkdownView",
 					"markdown":"1. Update to upstream APT 1.7.4.\n2. Rename packages from apt7/apt7-lib/apt7-key to apt/apt-lib/apt-key",
 					"useSpacing":true
+				}
+			]
+		}
 
-    ],
+	 
+    ]
     "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
     "tintColor": "#f9b35c",
     "minVersion": "0.1"
