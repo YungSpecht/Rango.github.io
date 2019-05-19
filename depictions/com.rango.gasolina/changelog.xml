@@ -1,5 +1,9 @@
 <changelog>
      <changes>
+		<version>0.3.1</version>
+		<change>arm64e Support</change>
+	</changes>
+     <changes>
 		<version>0.3</version>
 		<change>Preferences in Settings</change>
 	</changes>
