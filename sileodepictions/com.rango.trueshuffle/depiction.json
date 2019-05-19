@@ -87,19 +87,6 @@
 					"useSpacing":true
 				}
 			]
-		        [
-			    {
-					"class":"DepictionSubheaderView",
-					"title":"1.1",
-					"useBoldText":true,
-					"useBottomMargin":false
-				},
-				{
-					"class":"DepictionMarkdownView",
-					"markdown":"Cleaned Up Code!",
-					"useSpacing":true
-				}
-			]
 		}
 
     ],
