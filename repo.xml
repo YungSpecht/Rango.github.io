@@ -6,6 +6,11 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
              <link>
+			<name>Donate to me :)</name>
+			<url>https://paypal.me/YungSpecht</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+             <link>
 			<name>View my Github</name>
 			<url>https://GitHub.com/YungSpecht</url>
 			<iconclass>fa fa-github</iconclass>
