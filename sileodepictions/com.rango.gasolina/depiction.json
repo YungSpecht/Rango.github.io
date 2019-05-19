@@ -13,10 +13,10 @@
                         {
                             "accessibilityText": "Screenshot0",
                             "url": "https://yungspecht.github.io/assets/screenshots/gasolina.png"
-                        }
+                        },
 			{
-                            "url": "https://yungspecht.github.io/assets/screenshots/gasolina2.png",
-                            "accessibilityText": "Screenshot1"
+			    "accessibilityText": "Screenshot1",
+                            "url": "https://yungspecht.github.io/assets/screenshots/gasolina2.png"
                         }
     
                     ]
