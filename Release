@@ -1,9 +1,5 @@
 Origin: Rango’s Repo
-<<<<<<< HEAD
 Label: Rango’s Repo
-=======
-Label: Rango's official Repository
->>>>>>> a6dfbb2a2751381a327410fbe763ef0442fb4416
 Suite: stable
 Version: 1.0
 Codename: ios
