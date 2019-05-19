@@ -89,7 +89,7 @@
 
                     "class": "DepictionMarkdownView",
 
-                    "markdown": "Removed unneccesary code.",
+                    "markdown": "-Removed unneccesary code.",
 
                     "useSpacing": false
 		},	
@@ -108,7 +108,7 @@
 
                     "class": "DepictionMarkdownView",
 
-                    "markdown": "- Removed coloring of shuffle icon as people got confused over it.\r\n-Improved Reliability",
+                    "markdown": "- Removed coloring of shuffle icon as people got confused over it.\r\n\r\n - Improved Reliability",
 
                     "useSpacing": false
 
