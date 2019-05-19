@@ -89,7 +89,7 @@
 
                     "class": "DepictionMarkdownView",
 
-                    "markdown": "-Removed unneccesary code.",
+                    "markdown": "- Removed unneccesary code.",
 
                     "useSpacing": false
 		},	
@@ -128,7 +128,7 @@
 
                     "class": "DepictionMarkdownView",
 
-                    "markdown": "Code Ceanup!",
+                    "markdown": "- Code Ceanup!",
 
                     "useSpacing": false
 
