@@ -53,7 +53,16 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
-                }
+                },
+                "class":"DepictionStackView",
+			"tabname":"Changelog",
+			"views":[
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"1.7.4",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
             ]
         }
     ],
