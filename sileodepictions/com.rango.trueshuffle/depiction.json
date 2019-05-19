@@ -1,82 +1,78 @@
 {
-    "class": "DepictionTabView",
+    "minVersion": "0.1",
     "tabs": [
         {
+            "tabname": "Details",
             "class": "DepictionStackView",
-            "tabname": "Info",
             "views": [
                 {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "TrueShuffle",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "True random Shuffling"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://yungspecht.github.io/assets/screenshots/trueshuffle.png"
+                            "url": "https://yungspecht.github.io/assets/screenshots/trueshuffle.png",
+                            "accessibilityText": "Screenshot0"
                         }
                     ]
                 },
                 {
-                    "title": "markdown-description",
                     "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
                     "class": "DepictionMarkdownView",
-                    "markdown": "When you enable Shuffling in the Spotify app, Songs  that you have listened to more often get prioritized.  \r\nThis tweak bypasses that.",
-                    "useBottomMargin": false
+                    "markdown": "When you enable Shuffling in the Spotify app, Songs  that you have listened to more often get prioritized.\r\n\r\nThis Tweak Bypasses that."
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "Version",
                     "text": "1.1.1",
+                    "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
+                    "text": "05-19-2019",
                     "title": "Released",
-                    "text": "05-11-2019",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "title": "Price",
                     "text": "Free",
+                    "title": "Price",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 },
                 {
-                    "title": "Developer",
                     "text": "Rango",
+                    "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 }
             ]
-        },
-	    {
-			"class":"DepictionStackView",
-			"tabname":"Changelog",
-			"views":[
-			    {
-					"class":"DepictionSubheaderView",
-					"title":"1.7.4",
-					"useBoldText":true,
-					"useBottomMargin":false
-				},
-				{
-					"class":"DepictionMarkdownView",
-					"markdown":"1. Update to upstream APT 1.7.4.\n2. Rename packages from apt7/apt7-lib/apt7-key to apt/apt-lib/apt-key",
-					"useSpacing":true
-				}
-			]
-		}
-
-	 
-    ]
+        }
+    ],
     "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
-    "tintColor": "#f9b35c",
-    "minVersion": "0.1"
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
 }
