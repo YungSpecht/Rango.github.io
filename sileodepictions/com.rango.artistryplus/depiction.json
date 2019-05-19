@@ -1,27 +1,42 @@
 {
-    "headerImage": "https://yungspecht.github.io/assets/headers/artistry.png",
     "minVersion": "0.1",
     "tabs": [
         {
+            "tabname": "Details",
+            "class": "DepictionStackView",
             "views": [
                 {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "ArtistryPlus",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Song Artworks in all Playlists"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
                             "url": "https://yungspecht.github.io/assets/screenshots/artistryplus.png",
                             "accessibilityText": "Screenshot0"
                         }
-                    ],
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}"
+                    ]
                 },
                 {
                     "useBoldText": true,
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "class": "DepictionMarkdownView",
-                    "markdown": "I contrast to Artistry this version also shows Artworks inside your saved Songs Section.   \r\n 
-  \r\n IMPORTANT: This Version bundles the Artworkify dylib, therefore credits for that go to Julioverne "
+                    "markdown": "In contrast to Artistry, this version also shows the Artworks inside your saved Songs Section. \r\n\r\nIMPORTANT: This Version bundles the Artworkify dylib, therefore credits for that go to Julioverne"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -32,7 +47,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "05-07-2019",
+                    "text": "05-19-2019",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -54,11 +69,10 @@
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
-            ],
-            "tabname": "Info",
-            "class": "DepictionStackView"
+            ]
         }
     ],
-    "tintColor": "#f9b35c",
+    "headerImage": "https://yungspecht.github.io/assets/headers/artistryplus.png",
+    "tintColor": "#0657bb",
     "class": "DepictionTabView"
 }
