@@ -6,17 +6,6 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "TrueShuffle",
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "True random Shuffling"
-                },
-                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
@@ -158,6 +147,6 @@
 
     ],
     "headerImage": "https://yungspecht.github.io/assets/headers/trueshuffle.png",
-    "tintColor": "#0657bb",
+    "tintColor": "#f9b35c",
     "class": "DepictionTabView"
 }
